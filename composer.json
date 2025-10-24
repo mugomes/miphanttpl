@@ -1,0 +1,14 @@
+{
+    "name": "mugomes/miphanttpl",
+    "version": "1.0.0",
+    "description": "Gera HTML de forma dinâmica com PHP.",
+    "license": "MIT",
+    "_comment": [
+        "Copyright (C) 2025 Murilo Gomes Julio"
+    ],
+    "autoload": {
+        "psr-4": {
+            "MiPhantTPL\\": "src/"
+        }
+    }
+}
