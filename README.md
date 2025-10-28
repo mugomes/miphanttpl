@@ -2,6 +2,10 @@
 
 MiPhantTPL é uma biblioteca para gerar códigos HTML de forma dinâmica.
 
+## Instalação
+
+```composer require mugomes/miphanttpl```
+
 ## Support
 
 - https://www.asaas.com/c/girp15xsowg4dpvf (Only in Brazil)
