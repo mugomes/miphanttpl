@@ -1,5 +1,8 @@
 # MiPhantTPL
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/miphanttpl
+
 **MiPhantTPL** é uma biblioteca PHP **leve, extensível e minimalista** para geração de HTML através de **métodos dinâmicos**, permitindo escrever HTML de forma **programática, fluente e sem templates externos**.
 
 Cada método chamado representa uma **tag HTML**, funcionando como uma **DSL (Domain Specific Language)** para HTML em PHP.
