@@ -1,8 +1,5 @@
 # MiPhantTPL
 
-> [!NOTE]
-> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/miphanttpl
-
 **MiPhantTPL** é uma biblioteca PHP **leve, extensível e minimalista** para geração de HTML através de **métodos dinâmicos**, permitindo escrever HTML de forma **programática, fluente e sem templates externos**.
 
 Cada método chamado representa uma **tag HTML**, funcionando como uma **DSL (Domain Specific Language)** para HTML em PHP.
@@ -29,7 +26,7 @@ Cada método chamado representa uma **tag HTML**, funcionando como uma **DSL (Do
 ### Via Composer
 
 ```bash
-composer require bluiceoficial/miphanttpl
+composer require profmugomes/miphanttpl
 ```
 
 ### Manual
@@ -211,16 +208,16 @@ echo $tpl->doctype();
 
 **Murilo Gomes Julio**
 
-🔗 [https://www.bluice.com.br](https://www.bluice.com.br)
+🔗 [https://www.profmugomes.com.br](https://www.profmugomes.com.br)
 
-📺 [https://youtube.com/@bluiceoficial](https://youtube.com/@bluiceoficial)
+📺 [https://youtube.com/@profmugomes](https://youtube.com/@profmugomes)
 
 ---
 
 ## 📜 Licença
 
-Copyright (c) 2025-2026 Murilo Gomes Julio
+Copyright (c) 2025-2026 Murilo Gomes <profmugomes.com.br>
 
-Licensed under the [MIT](https://github.com/bluiceoficial/miphanttpl/blob/main/LICENSE).
+Licensed under the [MIT](https://github.com/profmugomes/miphanttpl/blob/main/LICENSE).
 
 All contributions to the MiPhantTPL are subject to this license.

@@ -1,12 +1,10 @@
 <?php
-// Copyright (C) 2025-2026 Murilo Gomes Julio
+// Copyright (C) 2025-2026 Murilo Gomes <profmugomes.com.br>
 // SPDX-License-Identifier: MIT
 
-// Site: https://www.bluice.com.br
+namespace miphanttpl;
 
-namespace MiPhantTPL;
-
-class MiPhantTPL
+class miphanttpl
 {
     private array $naofecha = ['area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'param', 'source', 'track', 'wbr'];
     private array $atributosemvalor = ['async', 'autofocus', 'autoplay', 'checked', 'controls', 'default', 'defer', 'disabled', 'download', 'hidden', 'loop', 'multiple', 'muted', 'novalidate', 'open', 'readonly', 'required', 'reversed', 'selected'];
